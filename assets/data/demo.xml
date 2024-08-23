@@ -1,0 +1,96 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with MathML3 v1.2 20190208//EN" "JATS-archivearticle1-mathml3.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ali="http://www.niso.org/schemas/ali/1.0/" article-type="other" dtd-version="1.2">
+  <front>
+    <article-meta>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <string-name>
+            <given-names>Kristyna</given-names>
+            <surname>Brejchova</surname>
+          </string-name>
+          <role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Investigation" vocab-term-identifier="https://credit.niso.org/contributor-roles/investigation/">Investigation</role>
+          <role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Supervision" vocab-term-identifier="https://credit.niso.org/contributor-roles/supervision/">Supervision</role>
+        </contrib>
+        <contrib contrib-type="author">
+          <string-name>
+            <given-names>Veronika</given-names>
+            <surname>Paluchova</surname>
+          </string-name>
+          <role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Investigation" vocab-term-identifier="https://credit.niso.org/contributor-roles/investigation/">Investigation</role>
+          <role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Supervision" vocab-term-identifier="https://credit.niso.org/contributor-roles/supervision/">Supervision</role>
+        </contrib>
+        <contrib contrib-type="author">
+          <string-name>
+            <given-names>Marie</given-names>
+            <surname>Brezinova</surname>
+          </string-name>
+          <role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Investigation" vocab-term-identifier="https://credit.niso.org/contributor-roles/investigation/">Investigation</role>
+          <role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Supervision" vocab-term-identifier="https://credit.niso.org/contributor-roles/supervision/">Supervision</role>
+        </contrib>
+        <contrib contrib-type="author">
+          <string-name>
+            <given-names>Tomas</given-names>
+            <surname>Cajka</surname>
+          </string-name>
+          <role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Investigation" vocab-term-identifier="https://credit.niso.org/contributor-roles/investigation/">Investigation</role>
+          <role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Supervision" vocab-term-identifier="https://credit.niso.org/contributor-roles/supervision/">Supervision</role>
+        </contrib>
+        <contrib contrib-type="author">
+          <string-name>
+            <given-names>Laurence</given-names>
+            <surname>Balas</surname>
+          </string-name>
+          <role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Conceptualization" vocab-term-identifier="https://credit.niso.org/contributor-roles/conceptualization/">Conceptualization</role>
+          <role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Writing &#8211; review &amp; editing" vocab-term-identifier="https://credit.niso.org/contributor-roles/writing-review-editing/">Writing &#8211; review &amp; editing</role>
+        </contrib>
+        <contrib contrib-type="author">
+          <string-name>
+            <given-names>Thierry</given-names>
+            <surname>Durand</surname>
+          </string-name>
+          <role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Data curation" vocab-term-identifier="https://credit.niso.org/contributor-roles/data-curation/">Data curation</role>
+          <role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Writing &#8211; original draft" vocab-term-identifier="https://credit.niso.org/contributor-roles/writing-original-draft/">Writing &#8211; original draft</role>
+        </contrib>
+        <contrib contrib-type="author">
+          <string-name>
+            <given-names>Marcela</given-names>
+            <surname>Krizova</surname>
+          </string-name>
+          <role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Formal Analysis" vocab-term-identifier="https://credit.niso.org/contributor-roles/formal-analysis/">Formal Analysis</role>
+          <role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Visualization" vocab-term-identifier="https://credit.niso.org/contributor-roles/visualization/">Visualization</role>
+        </contrib>
+        <contrib contrib-type="author">
+          <string-name>
+            <given-names>Zbynek</given-names>
+            <surname>Stranak</surname>
+          </string-name>
+          <role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Funding acquisition" vocab-term-identifier="https://credit.niso.org/contributor-roles/funding-acquisition/">Funding acquisition</role>
+          <role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Validation" vocab-term-identifier="https://credit.niso.org/contributor-roles/validation/">Validation</role>
+        </contrib>
+        <contrib contrib-type="author">
+          <string-name>
+            <given-names>Ondrej</given-names>
+            <surname>Kuda</surname>
+          </string-name>
+          <role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Investigation" vocab-term-identifier="https://credit.niso.org/contributor-roles/investigation/">Investigation</role>
+          <role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Methodology" vocab-term-identifier="https://credit.niso.org/contributor-roles/methodology/">Methodology</role>
+          <role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Project administration" vocab-term-identifier="https://credit.niso.org/contributor-roles/project-administration/">Project administration</role>
+          <role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Resources" vocab-term-identifier="https://credit.niso.org/contributor-roles/resources/">Resources</role>
+          <role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Software" vocab-term-identifier="https://credit.niso.org/contributor-roles/software/">Software</role>
+          <role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Supervision" vocab-term-identifier="https://credit.niso.org/contributor-roles/supervision/">Supervision</role>
+        </contrib>
+      </contrib-group>
+      <permissions>
+        <copyright-statement>&#169; 2019 JATS4R</copyright-statement>
+        <copyright-year>2019</copyright-year>
+        <copyright-holder>JATS4R</copyright-holder>
+        <license>
+          <ali:license_ref>http://creativecommons.org/licenses/by/4.0/</ali:license_ref>
+          <license-p>This is an open access article distributed under the terms of the<ext-link xlink:href="http://creativecommons.org/licenses/by/4.0/" ext-link-type="uri">Creative Commons Attribution License</ext-link>, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p>
+        </license>
+      </permissions>
+    </article-meta>
+  </front>
+  <body/>
+</article>
